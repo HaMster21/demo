@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/HaMster21/demo.png?label=ready&title=Ready)](http://waffle.io/HaMster21/demo) [![Coverage Status](https://coveralls.io/repos/HaMster21/demo/badge.png)](https://coveralls.io/r/HaMster21/demo)
+[![Stories in Ready](https://badge.waffle.io/HaMster21/demo.png?label=ready&title=Ready)](http://waffle.io/HaMster21/demo) [![Build Status](https://travis-ci.org/HaMster21/demo.svg)](https://travis-ci.org/HaMster21/demo)[![Coverage Status](https://coveralls.io/repos/HaMster21/demo/badge.png)](https://coveralls.io/r/HaMster21/demo)
 
 demo
 ====
